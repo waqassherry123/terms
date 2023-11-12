@@ -1,0 +1,25 @@
+  body {
+      color: #808285;
+      font-family: sans-serif;
+  }
+
+  h1 {
+      color: blue;
+  }
+
+  .container {
+      max-width: 800px;
+      background-color: white;
+      margin: 0 auto;
+      padding: 20px;
+  }
+
+  p {
+      text-align: justify;
+      line-height: 1.5;
+      display: block;
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  }
